@@ -1,13 +1,13 @@
 # Omnichannel Marketing Campaign & Audience Performance Dashboard
 
-## 📊 Project Overview
+## Project Overview
 This end-to-end Business Intelligence project analyzes marketing campaign data to evaluate cross-channel efficiency and audience demographic performance. The objective is to transform raw SQL database tables into an interactive, executive-ready dashboard that assists stakeholders in optimizing budget allocation and maximizing Return on Ad Spend (ROAS).
 
 The project covers the complete data pipeline: **Extraction (SQL)**, **Data Cleaning & Engineering (Excel)**, and **Interactive Visualization (Power BI)**.
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+## Tech Stack & Methodology
 
 ### 1. Data Extraction & Transformation (SQL)
 * Aggregated raw marketing logs to compute core baseline metrics grouped by communication channel and target demographic.
@@ -26,7 +26,7 @@ The project covers the complete data pipeline: **Extraction (SQL)**, **Data Clea
 
 ---
 
-## 📈 Strategic Insights & Key Takeaways
+## Strategic Insights & Key Takeaways
 
 ### Page 1: Channel Performance & Financial Efficiency
 * **Revenue Leaders:** **WhatsApp** and **Facebook** generate the highest absolute revenue volume, leading the ecosystem with $47.8M and $36.9M respectively.
@@ -39,7 +39,7 @@ The project covers the complete data pipeline: **Extraction (SQL)**, **Data Clea
 
 ---
 
-## 🖥️ Dashboard Previews
+## Dashboard Previews
 
 ### Page 1: Marketing Channels & Financial ROAS
 `![Channel Dashboard](dashboard_pagina1.png)`
@@ -49,7 +49,7 @@ The project covers the complete data pipeline: **Extraction (SQL)**, **Data Clea
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 * `/data`: Contains the cleaned CSV data sheets (`high_revenue_channels_omnichannel.csv`, `audience_performance.csv`).
 * `/powerbi`: Contains the source Power BI Desktop binary workbook (`.pbix`).
 * `README.md`: Project executive summary and technical write-up.
