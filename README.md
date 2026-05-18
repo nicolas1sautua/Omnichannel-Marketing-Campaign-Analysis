@@ -50,6 +50,6 @@ The project covers the complete data pipeline: **Extraction (SQL)**, **Data Clea
 ---
 
 ## Repository Structure
-* `/data`: Contains the cleaned CSV data sheets (`high_revenue_channels_omnichannel.csv`, `audience_performance.csv`).
+* `/data`: Contains the cleaned CSV data sheets (`high_revenue_channels_omnichannel.csv.xlsx`, `audience_performance.csv.xlsx`).
 * `/powerbi`: Contains the source Power BI Desktop binary workbook (`.pbix`).
 * `README.md`: Project executive summary and technical write-up.
