@@ -42,10 +42,10 @@ The project covers the complete data pipeline: **Extraction (SQL)**, **Data Clea
 ## Dashboard Previews
 
 ### Page 1: Marketing Channels & Financial ROAS
-`!(dashboard_pagina1.png)`
+`![Channel Dashboard](dashboard_pagina1.png)`
 
 ### Page 2: Audience & Demographic Share
-`!(dashboard_pagina2.png)`
+`![Audience Dashboard](dashboard_pagina2.png)`
 
 ---
 
